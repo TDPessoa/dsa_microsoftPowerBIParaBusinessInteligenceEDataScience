@@ -14,3 +14,9 @@ Além de inserir seccionamento de dados por:
 + Ano da venda;
 + Segmento de Venda; e
 + País de origem da venda.
+
+#### Anotações:
++ Não me agradou minha utilização de TreeMap para a questão 3, mas eu estava tentando não deixar nenhuma barra de rolagem, visto que o instrutor não se importa com esta questão, empreguei à minha, mas com resalvas - na próxima anotação.
++ O visual ficou extenso e os dados não são próximos, o que torna os valores menores, ao final, difíceis de mensurar visualmente.
++ Não me atentei ao "maior média" na questão 5.
++ Não achei produtivo o emprego de valor fixo para o filtro da questão 5, visto que, a visualização pode ficar vazia dependendo do filtro cruzado aplicado. Portanto, utilizei do filtro "N Superiores" e escolhi os 20 primeiros países por média em vendas.
