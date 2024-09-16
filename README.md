@@ -11,8 +11,8 @@ Assistido&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp
 Publicada a Resposta Pré Video&emsp;&emsp;FEITO  
 Publicada a Resposta Pós Video&emsp;&emsp;FEITO  
 3. Modelagem, Relacionamentos e DAX:  
-Publicada a Resposta Pré Video&emsp;&emsp;PENDENTE  
-Publicada a Resposta Pós Video&emsp;&emsp;PENDENTE  
+Publicada a Resposta Pré Video&emsp;&emsp;FEITO  
+Publicada a Resposta Pós Video&emsp;&emsp;FEITO  
 4. Primeiros Passos Com Power BI:  
 Publicada a Resposta Pré Video&emsp;&emsp;PENDENTE  
 Publicada a Resposta Pós Video&emsp;&emsp;PENDENTE  

@@ -13,19 +13,19 @@ Ao longo das aulas foram passadas as questões:
 1. Qual foi o total de valor venda considerando cada modo de envio dos pedidos? Use um gráfico de cascata. 
     ``` 
     Verificou-se os valores:
-      Classe Padrão,    $2.282.852,07;
-      Segunda Classe,   $  947.557,30;
-      Primeira Classe,  $  693.303,98;
-      Mesmo Dia,        $  294.844,15; e
-      o Total Geral de: $4.744.557,50.
+      Classe Padrão,    $ 7.556.488,21;
+      Segunda Classe,   $ 2.565.561,05;
+      Primeira Classe,  $ 1.843.147,32;
+      Mesmo Dia,        $   677.305,33; e
+      o Total Geral de: $12.642.501,91.
     ```
 2. Quais mercados tiveram o maior custo médio de envio dos produtos vendidos? Use um gráfico treemap.  
     ```
     Os quatro mercados com maior média de custo de envio são:
-      US,    $54,08;
-      EU,    $53,78;
-      APAC,  $52,21;
-      LATAM, $51,41.
+      APAC,  $29,14;
+      US,    $28,94;
+      EU,    $27,28;
+      LATAM, $26,46.
     Que compõem mais de 50% do da soma dos valores médios. 
     ```
 3. A empresa tem como objetivo (meta) manter uma média de 350 para o valor de venda todos os meses. Mostre um indicador (KPI– Key Performance Indicator) com o valor médio de venda. A empresa ficou abaixo ou acima da meta no mês de Abril/2014?  
@@ -40,3 +40,8 @@ Ao longo das aulas foram passadas as questões:
     ```
     Percebe-se que a margem de lucro média ao longo dos meses está entre 88% e 90%.
     ```
+
+#### Anotações:
+Por falha minha, as respostas foram respondidas erradas nas questões 1 e 2. Não percebi a seleção de "Tecnologia" no gráfico da questão 4 e coletei as informações para esta categoria. Nesta versão, estão corrigidos.
+A implementação do "Gauge Meter", por ser mais sensata para a questão 3, foi feita na versão final.
+Foi reorganizada a ordem dos visuais para acomodar a implementação do visual citado acima e para desobstruir as legendas de outros visuais.
