@@ -14,8 +14,7 @@ Publicada a Resposta Pós Video&emsp;&emsp;FEITO
 Publicada a Resposta Pré Video&emsp;&emsp;FEITO  
 Publicada a Resposta Pós Video&emsp;&emsp;FEITO  
 4. Primeiros Passos Com Power BI:  
-Publicada a Resposta Pré Video&emsp;&emsp;PENDENTE  
-Publicada a Resposta Pós Video&emsp;&emsp;PENDENTE  
+Publicada a Resposta Final&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;FEITO  
 5. Primeiros Passos Com Power BI:  
 Publicada a Resposta Pré Video&emsp;&emsp;PENDENTE  
 Publicada a Resposta Pós Video&emsp;&emsp;PENDENTE  
