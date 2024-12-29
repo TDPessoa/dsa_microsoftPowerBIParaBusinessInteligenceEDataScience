@@ -12,6 +12,15 @@ Foram resuisitadas as KPIs:
 - Percentual de Entregas Por Status de Entrega.  
 
 Uma visão do painel com problemas foi disponibilizada em `.pdf`.
+### Execício proposto no primeiro vídeo do módulo:
+Anotar e justificar os erros e problemas encontrados por mim no dashboard:  
+- Total de Entregas no Prazo por Canal de Entrega (Area Chart Visual)  
+    * Foi utilizado, no eixo y, a contagem de itens distintos em `Status_Entrega` ao em vez da contagem de `id_Pedido`. Mostrando, para cada item de `Canal_Entrega`, a quantidade de tipos diferentes de `Status_Entrega` encontrados.
+    * Não foi filtrado o `Status_Entrega` como o título sugere (mas não houve diferença no gráfico final por conta do erro anterior).
+    * Foi utilizado um visual difícil de distinguir baixas quantidades, prejudicando a informação passada.
+- Total de Entregas Por Mês (Line Chart Visual)
+    * Foi posta toda a hierarquia `Data_Entrega_Realizada` no eixo x, fazendo com que todos os dias fossem mostrados no visual e não somente os meses como o titulo sugere.
+- Percentual de Entregas Por Equipe (Pie Chart Visual)
 
 #### Anotações:
 
