@@ -25,6 +25,7 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
     - Publicada a Resposta Pré Video&emsp;&emsp;FEITO  
     - Publicada a Resposta Pós Video&emsp;&emsp;FEITO  
 1. Power BI Para Análise de Dados Financeiros:   
+    - Publicada a Resposta Pré Video&emsp;&emsp;FEITO  
 1. Power BI Para Análise de Dados Contábeis:  
 1. Power BI Para Análise de Dados do Mercado de Ações:  
 1. Estatística Fundamental Para Data Science:  
