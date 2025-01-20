@@ -26,6 +26,7 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
     - Publicada a Resposta Pós Video&emsp;&emsp;FEITO  
 1. Power BI Para Análise de Dados Financeiros:   
     - Publicada a Resposta Pré Video&emsp;&emsp;FEITO  
+    - Publicada a Resposta Pós Video&emsp;&emsp;FEITO  
 1. Power BI Para Análise de Dados Contábeis:  
 1. Power BI Para Análise de Dados do Mercado de Ações:  
 1. Estatística Fundamental Para Data Science:  
@@ -62,4 +63,5 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
     - [20 indicadores de RH (KPIs) estratégicos para a sua empresa](https://www.gupy.io/blog/indicadores-de-rh)  
 * Módulo 07:
     - [Conheça 8 indicadores de desempenho logístico para avaliar seu negócio](https://cargon.com.br/blog/indicadores-de-desempenho-logistico/)  
-    
+* Módulo 08:
+    - [Indicadores Financeiros](https://www.sage.com/pt-pt/blog/tome-nota-dos-principais-indicadores-financeiros-para-controlar-a-sua-empresa/)
