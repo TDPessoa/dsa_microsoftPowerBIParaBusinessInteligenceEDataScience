@@ -68,3 +68,6 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
     - [Conheça 8 indicadores de desempenho logístico para avaliar seu negócio](https://cargon.com.br/blog/indicadores-de-desempenho-logistico/)  
 * Módulo 08:
     - [Indicadores Financeiros](https://www.sage.com/pt-pt/blog/tome-nota-dos-principais-indicadores-financeiros-para-controlar-a-sua-empresa/)
+* Módulo 09:
+    - [Balanço Patrimonial: O que é? Saiba como fazer e exemplos](https://www.contabilizei.com.br/contabilidade-online/balanco-patrimonial)
+    - [Plano de contas: guia para estruturar o seu (com exemplos)](https://blog.contaazul.com/o-que-e-plano-de-contas)
