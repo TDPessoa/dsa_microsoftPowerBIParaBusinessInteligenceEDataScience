@@ -31,7 +31,9 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
     - Publicada a Resposta Pré Video&emsp;&emsp;FEITO 
     - Publicada a Resposta Pós Video&emsp;&emsp;FEITO 
     - Publicada a Respósta ao desafio&emsp;&emsp;FEITO  
-1. Power BI Para Análise de Dados do Mercado de Ações:  
+1. Power BI Para Análise de Dados do Mercado de Ações:
+    - Publicada a Resposta Pré Video&emsp;&emsp;FEITO 
+    - Publicada a Resposta Pós Video&emsp;&emsp;FEITO 
 1. Estatística Fundamental Para Data Science:  
 1. Limpeza e Manipulação de Dados com Power BI:  
 1. Manipulação de Dados com Power Query M Language:  
@@ -71,3 +73,6 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
 * Módulo 09:
     - [Balanço Patrimonial: O que é? Saiba como fazer e exemplos](https://www.contabilizei.com.br/contabilidade-online/balanco-patrimonial)
     - [Plano de contas: guia para estruturar o seu (com exemplos)](https://blog.contaazul.com/o-que-e-plano-de-contas)
+* Módulo 10:
+    - [What Is a Time Series and How Is It Used to Analyze Data?](https://www.investopedia.com/terms/t/timeseries.asp)
+    - [Time intelligence function](https://learn.microsoft.com/pt-br/dax/time-intelligence-functions-dax)
