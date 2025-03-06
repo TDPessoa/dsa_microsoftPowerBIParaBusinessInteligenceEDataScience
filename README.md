@@ -35,6 +35,9 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
     - Publicada a Resposta Pré Video&emsp;&emsp;FEITO 
     - Publicada a Resposta Pós Video&emsp;&emsp;FEITO 
 1. Estatística Fundamental Para Data Science:  
+    - Aprovado no Quiz do Módulo&emsp;&emsp;&emsp;09/10  
+    - Publicada a Resposta Pré Video&emsp;&emsp;PENDENTE  
+    - Publicada a Resposta Pós Video&emsp;&emsp;PENDENTE  
 1. Limpeza e Manipulação de Dados com Power BI:  
 1. Manipulação de Dados com Power Query M Language:  
 1. Power BI e Bancos de Dados:  
