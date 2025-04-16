@@ -36,7 +36,7 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
     - Publicada a Resposta Pós Video&emsp;&emsp;FEITO 
 1. Estatística Fundamental Para Data Science:  
     - Aprovado no Quiz do Módulo&emsp;&emsp;&emsp;09/10  
-    - Publicada a Resposta Pré Video&emsp;&emsp;PENDENTE  
+    - Publicada a Resposta Pré Video&emsp;&emsp;FEITO  
     - Publicada a Resposta Pós Video&emsp;&emsp;PENDENTE  
 1. Limpeza e Manipulação de Dados com Power BI:  
 1. Manipulação de Dados com Power Query M Language:  
@@ -78,4 +78,7 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
     - [Plano de contas: guia para estruturar o seu (com exemplos)](https://blog.contaazul.com/o-que-e-plano-de-contas)
 * Módulo 10:
     - [What Is a Time Series and How Is It Used to Analyze Data?](https://www.investopedia.com/terms/t/timeseries.asp)
-    - [Time intelligence function](https://learn.microsoft.com/pt-br/dax/time-intelligence-functions-dax)
+    - [Time intelligence function](https://learn.microsoft.com/pt-br/dax/time-intelligence-functions-dax)  
+* Módulo 11:
+    - [American Statistical Association](https://www.amstat.org/)
+    - [An Introduction to Statistical Learning](https://www.statlearning.com/)
