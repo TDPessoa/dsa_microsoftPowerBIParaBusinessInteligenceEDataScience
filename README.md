@@ -35,12 +35,16 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
     - Publicada a Resposta Pré Video&emsp;&emsp;FEITO 
     - Publicada a Resposta Pós Video&emsp;&emsp;FEITO 
 1. Estatística Fundamental Para Data Science:  
-    - Aprovado no Quiz do Módulo&emsp;&emsp;&emsp;09/10  
+    - Aprovado no Quiz do Módulo&emsp;&emsp;NOTA: 09/10  
     - Publicada a Resposta Pré Video&emsp;&emsp;FEITO  
-    - Publicada a Resposta Pós Video&emsp;&emsp;PENDENTE  
+    - Publicada a Resposta Pós Video&emsp;&emsp;FEITO  
 1. Limpeza e Manipulação de Dados com Power BI:  
+    - Módulo concluído!
+    > Deste módulo em diante o instrutor não está focando em visuais ou análises em si, mas nas funcionalidades e conceitos relacionados à análise de dados, portanto, só irei sinalizar a conclusão dos módulos daqui em diante.  
 1. Manipulação de Dados com Power Query M Language:  
-1. Power BI e Bancos de Dados:  
+    - Módulo cocluído!
+1. Power BI e Bancos de Dados:
+    - Módulo em curso!
 1. SQL Analytics:  
 1. Machine Learning e Power BI Para Segmentação de Clientes:  
 1. Machine Learning e Power BI Para Detecção de Anomalias:  
@@ -82,3 +86,7 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
 * Módulo 11:
     - [American Statistical Association](https://www.amstat.org/)
     - [An Introduction to Statistical Learning](https://www.statlearning.com/)
+* Módulo 12:  
+    - [R Graph Gallery](https://r-graph-gallery.com/)
+* Módulo 13:
+    - [Linguagem de fórmula Power Query M](https://learn.microsoft.com/pt-br/powerquery-m/)
