@@ -44,8 +44,9 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
 1. Manipulação de Dados com Power Query M Language:  
     - Módulo cocluído!
 1. Power BI e Bancos de Dados:
-    - Módulo em curso!
+    - Módulo cocluído!
 1. SQL Analytics:  
+    - Módulo em curso!  
 1. Machine Learning e Power BI Para Segmentação de Clientes:  
 1. Machine Learning e Power BI Para Detecção de Anomalias:  
 1. Inteligência Artificial e Análise de Séries Temporais com Power BI:  
@@ -89,4 +90,7 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
 * Módulo 12:  
     - [R Graph Gallery](https://r-graph-gallery.com/)
 * Módulo 13:
-    - [Linguagem de fórmula Power Query M](https://learn.microsoft.com/pt-br/powerquery-m/)
+    - [Linguagem de fórmula Power Query M](https://learn.microsoft.com/pt-br/powerquery-m/)  
+* Módulo 14:
+    - [SQLite](https://sqlite.org/index.html)
+    - [Devart ODBC Driver For SQLite](https://www.devart.com/odbc/sqlite/)
