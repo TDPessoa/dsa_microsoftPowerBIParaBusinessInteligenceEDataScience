@@ -42,12 +42,13 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
     - Módulo concluído!
     > Deste módulo em diante o instrutor não está focando em visuais ou análises em si, mas nas funcionalidades e conceitos relacionados à análise de dados, portanto, só irei sinalizar a conclusão dos módulos daqui em diante.  
 1. Manipulação de Dados com Power Query M Language:  
-    - Módulo cocluído!
+    - Módulo concluído!
 1. Power BI e Bancos de Dados:
-    - Módulo cocluído!
+    - Módulo concluído!
 1. SQL Analytics:  
-    - Módulo em curso!  
+    - Módulo concluído!  
 1. Machine Learning e Power BI Para Segmentação de Clientes:  
+    - Módulo em curso!
 1. Machine Learning e Power BI Para Detecção de Anomalias:  
 1. Inteligência Artificial e Análise de Séries Temporais com Power BI:  
 1. Estudo de Caso - Transformação Digital com Microsoft Power Platform:  
@@ -94,3 +95,5 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
 * Módulo 14:
     - [SQLite](https://sqlite.org/index.html)
     - [Devart ODBC Driver For SQLite](https://www.devart.com/odbc/sqlite/)
+* Módulo 15:
+    - [SQL Para Data Science](https://www.datascienceacademy.com.br/course/sql-para-analise-de-dados-e-data-science)
