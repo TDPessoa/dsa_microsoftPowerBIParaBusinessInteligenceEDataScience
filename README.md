@@ -50,10 +50,15 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
 1. Machine Learning e Power BI Para Segmentação de Clientes:  
     - Módulo concluído!  
 1. Machine Learning e Power BI Para Detecção de Anomalias:  
-    - Módulo em curso!
+    - Módulo concluído!  
 1. Inteligência Artificial e Análise de Séries Temporais com Power BI:  
+    - Módulo concluído! 
 1. Estudo de Caso - Transformação Digital com Microsoft Power Platform:  
+    - Módulo sem conteúdo.
 1. Avaliação e Certificado de Conclusão:  
+    - Avaliação concluída:  
+    ![Resultado Avaliação](ConclusaoDaAvaliacaoFinal.png)
+    
 ### Links úteis encontrados nos módulos (para esudos futuros):  
 * Módulo 01:  
     - [Documentação do Power BI](https://learn.microsoft.com/pt-br/power-bi/)  
@@ -100,3 +105,9 @@ O curso possui 20 módulos e dentre estes, 18 contém laboratórios. Visto que o
     - [SQL Para Data Science](https://www.datascienceacademy.com.br/course/sql-para-analise-de-dados-e-data-science)
 * Módulo 16:
     - [Power BI Client](https://pypi.org/project/powerbiclient/)
+* Módulo 17:
+    - [Manuais Gratuitos da Linguagem R](https://cran.r-project.org/manuals.html)
+    - [R Fundamentos Para Análise de Dados](https://www.datascienceacademy.com.br/course/r-fundamentos-para-anlise-de-dados)
+    - [O Que é Linguagem R?](https://www.r-project.org/about.html)
+    - [Download do Interpretador R e do RTools](https://cran.r-project.org/)
+    - [RStudio Desktop](https://posit.co/download/rstudio-desktop/)
